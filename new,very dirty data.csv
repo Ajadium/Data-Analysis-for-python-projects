@@ -1,0 +1,20 @@
+Customer_ID,Name,Age,Gender,Email,Phone,Salary,Purchase_History,Signup_Date,Membership_Level,Feedback
+8270, Eve  ,18,nan,user2595@gmail.com,Invalid,100000,0,1/1/2015,VIP, Poor
+1860,Alice,22,F,user895@gmail.com,2.34808E+11,50000,-2,1/2/2015,VIP,Excellent
+6390, Frank  ,60,nan,user913@gmail.com,2.34801E+11,,19,1/3/2015,VIP, Bad 
+6191, Eve  ,22,F,,Invalid,30000,1,1/4/2015,Platinum, Bad 
+6734, Alice  ,30,Male,user1637@gmail.com,2.34802E+11,2500000,-4,1/5/2015,VIP,nan
+7265,Eve,30,F,user4624@gmail.com,2.34808E+11,150000,17,1/6/2015,Silver, Bad 
+1466,David,25,Male,user3983@gmail.com,2.3481E+11,-5000,4,1/7/2015,Bronze, Poor
+5426,Grace,50,Male,,2.34802E+11,,8,1/8/2015,nan,nan
+6578,Bob,35,Male,user951@gmail.com,2.34806E+11,30000,2,1/9/2015,Unknown,Excellent
+9322,Eve,35,F,user2839@gmail.com,2.34808E+11,100000,-3,1/10/2015,Gold, Bad 
+2685, David  ,,Male,user4569@gmail.com,2.34807E+11,150000,-3,1/11/2015,Unknown, Bad 
+1769,Grace,35,F,user262@gmail.com,2.34801E+11,-5000,-4,1/12/2015,Silver,Excellent
+7949,Grace,22,UNKNOWN,,2.34809E+11,70000,11,1/13/2015,Bronze,Excellent
+3433,Charlie,35,Male,user1306@gmail.com,2.34804E+11,150000,13,1/14/2015,Gold, Average
+6311,Hannah,60,F,user2490@gmail.com,2.34805E+11,100000,4,1/15/2015,VIP,Good
+6051, Alice  ,35,F,,2.34804E+11,100000,6,1/16/2015,Gold,Good
+7420, Charlie  ,18,F,,2.34804E+11,100000,17,1/17/2015,nan, Bad 
+2184, Hannah  ,,M,user613@gmail.com,2.34807E+11,50000,5,1/18/2015,Platinum,Excellent
+5555,Hannah,22,M,,2.34807E+11,-5000,3,1/19/2015,Platinum, Average
